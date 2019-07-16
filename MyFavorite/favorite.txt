@@ -1,0 +1,25 @@
+# MY favorite
+
+
+
+A Step by Step Backpropagation Example:
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+
+XGBoost 与 Boosted Tree:
+http://www.52cs.org/?p=429
+
+根据图片生成故事:
+https://github.com/ryankiros/neural-storyteller
+
+
+使用谷歌开源的TensorFlow进行一系列的训练实践:
+https://github.com/luyishisi/tensorflow
+
+
+优化方法总结：SGD，Momentum，AdaGrad，RMSProp，Adam
+https://blog.csdn.net/u010089444/article/details/76725843
+
+
+RDD、DataFrame、Dataset的区别和各自的优势
+https://www.cnblogs.com/starwater/p/6841807.html
