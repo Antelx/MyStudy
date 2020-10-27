@@ -1,11 +1,11 @@
 from .utils import switch
 
 
-@switch
+@switch()
 def add(x, y, **kwargs):
     print(x + y)
 
 
-@switch
+@switch(key='what', return_value='hi')
 def hello(config):
     print('hello')
