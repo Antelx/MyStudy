@@ -1,20 +1,25 @@
 #include <iostream>
 #include <vector>
 #include <unordered_map>
+#include<stack>
+#include <string>
+#include<algorithm>
+#include<math.h>
+#include "stringToIntegerVector.hpp"
 using namespace std;
 
-int main(){
-    unsigned int a = 1;
-    int b = 4294967295;
-    cout << a - 2 << b <<endl;
-    if(a - 2 == b){
-        cout << "y" << endl;
-    } 
-    else
-    {
-        cout << "n" << endl;
+class Solution {
+public:
+    int diagonalSum(vector<vector<int>>& mat) {
+        
     }
+};
+
+
+int main(){
     
-    getchar();
+    Solution sol;
+
+    
     return 0;
 }
